@@ -1,0 +1,16 @@
+{
+    "Taro": {
+        "age": 30,
+        "hobby": [
+            "Guitar",
+            "Piano"
+        ]
+    },
+    "Take": {
+        "age": 22,
+        "hobby": [
+            "Pain",
+            "Game"
+        ]
+    }
+}
